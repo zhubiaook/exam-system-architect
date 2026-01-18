@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "workspace": {
+    "name": "exam-system-architect",
+    "createdAt": 1768659477561,
+    "preset": "starter"
+  },
+  "authorizedRoots": [
+    "/opt/doc/ruankao/exam-system-architect"
+  ]
+}

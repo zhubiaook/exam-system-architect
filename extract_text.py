@@ -23,8 +23,8 @@ from pypdf import PdfReader
 # =============================================================================
 # Configuration
 # =============================================================================
-PDF_FILE = "textbook_system_architect_2nd.pdf"
-OUTPUT_DIR = "text"
+PDF_FILE = "materials/textbook_system_architect_2nd.pdf"
+OUTPUT_DIR = "materials/text"
 
 # Page offset: ToC page number + PAGE_OFFSET = Actual PDF page number (1-indexed)
 PAGE_OFFSET = 12
